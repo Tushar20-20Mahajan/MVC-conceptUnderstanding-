@@ -56,15 +56,39 @@
 		3FEE2C112BD863DC001F0267 /* MVC(conceptUnderstanding) */ = {
 			isa = PBXGroup;
 			children = (
+				3FEE2C282BD86491001F0267 /* Controller */,
+				3FEE2C272BD8647C001F0267 /* View */,
+				3FEE2C262BD86471001F0267 /* Model */,
 				3FEE2C122BD863DC001F0267 /* AppDelegate.swift */,
 				3FEE2C142BD863DC001F0267 /* SceneDelegate.swift */,
-				3FEE2C162BD863DC001F0267 /* ViewController.swift */,
 				3FEE2C182BD863DC001F0267 /* Main.storyboard */,
 				3FEE2C1B2BD863E0001F0267 /* Assets.xcassets */,
 				3FEE2C1D2BD863E1001F0267 /* LaunchScreen.storyboard */,
 				3FEE2C202BD863E1001F0267 /* Info.plist */,
 			);
 			path = "MVC(conceptUnderstanding)";
+			sourceTree = "<group>";
+		};
+		3FEE2C262BD86471001F0267 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3FEE2C272BD8647C001F0267 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3FEE2C282BD86491001F0267 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				3FEE2C162BD863DC001F0267 /* ViewController.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
