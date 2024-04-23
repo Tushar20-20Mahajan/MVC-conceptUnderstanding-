@@ -75,7 +75,7 @@
                     </view>
                     <connections>
                         <outlet property="iPhoneNameLabel" destination="zOT-nX-0lm" id="1cL-4i-Icl"/>
-                        <outlet property="iPhonePriceLabel" destination="shR-Mi-blO" id="hNW-PL-WrG"/>
+                        <outlet property="iPhonePriceLabel" destination="8gf-FV-dBC" id="RUD-46-gYj"/>
                         <outlet property="iiPhoneColorLabel" destination="MtW-X7-ZyP" id="9S0-hP-QwQ"/>
                     </connections>
                 </viewController>

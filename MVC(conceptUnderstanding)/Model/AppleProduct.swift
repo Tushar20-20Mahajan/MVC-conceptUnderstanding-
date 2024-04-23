@@ -7,10 +7,10 @@
 
 import Foundation
 
-class AppleProduct{
-    var name : String
-    var color : String
-    var price : Double
+struct AppleProduct{
+    let name : String
+    let color : String
+    let price : Double
     
     init(name: String, color: String, price: Double) {
         self.name = name
